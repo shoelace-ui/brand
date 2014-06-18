@@ -1,0 +1,10 @@
+{
+  "name": "shoelace-ui-brand",
+  "version": "0.0.1",
+  "description": "Brand variables",
+  "repository": "https://github.com/shoelace-ui/brand.git",
+  "keywords": ["shoelace", "brand", "color"],
+  "author": "Michael Andrew Vanasse <mail@mndvns.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
