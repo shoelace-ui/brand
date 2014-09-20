@@ -1,6 +1,6 @@
 {
   "name": "shoelace-ui-brand",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Brand variables",
   "repository": "https://github.com/shoelace-ui/brand.git",
   "keywords": ["shoelace", "brand", "color"],

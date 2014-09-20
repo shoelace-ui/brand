@@ -5,7 +5,7 @@ Brand variables.
 ## Usage
 
 ```stylus
-@require 'brand'
+@require 'shoelace-ui-brand'
 ```
 
 ## License
