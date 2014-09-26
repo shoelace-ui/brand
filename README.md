@@ -1,13 +1,17 @@
 # brand
 
-Brand variables.
+Brand variables
 
+## Install
+
+```sh
+$ npm install shoelace-ui-brand
+```
 ## Usage
 
-```stylus
+```styl
 @require 'shoelace-ui-brand'
 ```
-
 ## License
 
 MIT
